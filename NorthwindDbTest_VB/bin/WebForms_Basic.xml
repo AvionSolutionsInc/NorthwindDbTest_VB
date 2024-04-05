@@ -1,0 +1,242 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NorthwindDbTest_VB
+</name>
+</assembly>
+<members>
+<member name="F:NorthwindDbTest_VB.BaseRepository`1._client">
+ <summary>
+ The <see cref="T:System.Net.Http.HttpClient"/> used to make API calls.
+ </summary>
+</member>
+<member name="F:NorthwindDbTest_VB.BaseRepository`1._taskFactory">
+ <summary>
+ The <see cref="T:System.Threading.Tasks.TaskFactory"/> used to make async calls in a synchronous method.
+ </summary>
+</member>
+<member name="M:NorthwindDbTest_VB.BaseRepository`1.GetAll">
+ <summary>
+ Get all <typeparamref name="T"/> from the API.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:NorthwindDbTest_VB.BaseRepository`1.GetById(System.Int32)">
+ <summary>
+ Get the <typeparamref name="T"/> from the API with the associated ID.
+ </summary>
+ <param name="id">The ID of the record to retrieve.</param>
+ <returns></returns>
+</member>
+<member name="M:NorthwindDbTest_VB.BaseRepository`1.GetDataFromEndpoint``1(System.String)">
+ <summary>
+ Make an API endpoint call and return the data that was retrieved.
+ </summary>
+ <typeparam name="TReturn">The return type of the data.</typeparam>
+ <param name="endpoint">The API endpoint to call.</param>
+ <returns>All data returned from the API endpoint call as <typeparamref name="TReturn"/>.</returns>
+</member>
+<member name="M:NorthwindDbTest_VB.IRepository`1.GetAll">
+ <summary>
+ Get all <typeparamref name="T"/> from the API.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:NorthwindDbTest_VB.IRepository`1.GetById(System.Int32)">
+ <summary>
+ Get the <typeparamref name="T"/> from the API with the associated ID.
+ </summary>
+ <param name="id">The ID of the record to retrieve.</param>
+ <returns></returns>
+</member>
+<member name="F:NorthwindDbTest_VB.NorthwindApiEndpoints.Products">
+ <summary>
+ The Northwind API endpoint that returns all products as JSON.
+ </summary>
+</member>
+<member name="F:NorthwindDbTest_VB.NorthwindApiEndpoints.Orders">
+ <summary>
+ The Northwind API endpoint that returns all orders as JSON.
+ </summary>
+</member>
+<member name="F:NorthwindDbTest_VB.NorthwindApiEndpoints.Categories">
+ <summary>
+ The Northwind API endpoint that returns all categories as JSON.
+ </summary>
+</member>
+<member name="F:NorthwindDbTest_VB.NorthwindApiEndpoints.Suppliers">
+ <summary>
+ The Northwind API endpoint that returns all suppliers as JSON.
+ </summary>
+</member>
+<member name="F:NorthwindDbTest_VB.NorthwindApiEndpoints.Customers">
+ <summary>
+ The Northwind API endpoint that returns all customers as JSON.
+ </summary>
+</member>
+<member name="P:NorthwindDbTest_VB.ProductsRepository.Endpoint">
+ <summary>
+ Gets or sets the Northwind API endpoint used by this repository.
+ </summary>
+ <returns></returns>
+</member>
+<member name="T:NorthwindDbTest_VB.TaskFactoryExtensions">
+ <summary>
+ A set of extension methods for working with the <see cref="T:System.Threading.Tasks.TaskFactory"/>.
+ </summary>
+</member>
+<member name="M:NorthwindDbTest_VB.TaskFactoryExtensions.RunAsyncWithResult``1(System.Threading.Tasks.TaskFactory,System.Func{System.Threading.Tasks.Task{``0}})">
+ <summary>
+ Creates, starts, and returns the results of a <see cref="T:System.Threading.Tasks.Task`1"/>.
+ </summary>
+ <typeparam name="TResult">The return type.</typeparam>
+ <param name="factory">The <see cref="T:System.Threading.Tasks.TaskFactory"/> instance to use.</param>
+ <param name="func">A function delegate to run in the task.</param>
+ <returns></returns>
+</member>
+<member name="F:NorthwindDbTest_VB.Products._upResults">
+<summary>
+upResults control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Products._lblRecordCount">
+<summary>
+lblRecordCount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Products._chkAvailableOnly">
+<summary>
+chkAvailableOnly control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Products._txtSearch">
+<summary>
+txtSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Products._btnSearch">
+<summary>
+btnSearch control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Products._gvProducts">
+<summary>
+gvProducts control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="M:NorthwindDbTest_VB.Products.LoadProducts">
+ <summary>
+ Load all products into the grid.
+ </summary>
+</member>
+<member name="T:NorthwindDbTest_VB.IViewModelService`2">
+ <summary>
+ A simple interface for converting source models into view models.
+ </summary>
+ <typeparam name="TResult">The view model type that is returned.</typeparam>
+ <typeparam name="TSource">The model used as a source to construct the result.</typeparam>
+</member>
+<member name="M:NorthwindDbTest_VB.ProductViewModelService.CreateViewModel(NorthwindDbTest_VB.Models.Product)">
+ <summary>
+ Creates a <see cref="T:NorthwindDbTest_VB.ViewModels.ProductViewModel"/> from a provided <see cref="T:NorthwindDbTest_VB.Models.Product"/> model.
+ </summary>
+ <param name="source">The <see cref="T:NorthwindDbTest_VB.Models.Product"/> model.</param>
+ <returns></returns>
+</member>
+<member name="M:NorthwindDbTest_VB.ProductViewModelService.CreateViewModel(System.Collections.Generic.IEnumerable{NorthwindDbTest_VB.Models.Product})">
+ <summary>
+ Creates a collection of <see cref="T:NorthwindDbTest_VB.ViewModels.ProductViewModel"/> from a provided collection of <see cref="T:NorthwindDbTest_VB.Models.Product"/> models.
+ </summary>
+ <param name="source">The collection of <see cref="T:NorthwindDbTest_VB.Models.Product"/> models.</param>
+ <returns></returns>
+</member>
+<member name="F:NorthwindDbTest_VB.SiteMaster._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Site_Mobile._Head1">
+<summary>
+Head1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Site_Mobile._HeadContent">
+<summary>
+HeadContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Site_Mobile._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Site_Mobile._FeaturedContent">
+<summary>
+FeaturedContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Site_Mobile._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:NorthwindDbTest_VB.Site_Mobile._ViewSwitcher1">
+<summary>
+ViewSwitcher1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
