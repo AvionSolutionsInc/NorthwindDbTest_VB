@@ -90,11 +90,7 @@
                     After you have finished work on the project, please email a link to your GitHub repository containing your work to:
                 </p>
                 <address>
-                    <strong>Wendy Tarkowski</strong><br />
-                    Senior Recruiting/BD Capture<br />
-                    Avion Solutions, Inc.<br />
-                    <a href="mailto:wendy.tarkowski@avionsolutions.com">wendy.tarkowski@avionsolutions.com</a><br />
-                    256.489.6015
+                    <a href="mailto:candidatesubmissions@avionsolutions.com">candidatesubmissions@avionsolutions.com</a><br />
                 </address>
             </section>            
          
