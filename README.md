@@ -45,11 +45,3 @@ and will need to be created from scratch, as well as the linkage.
 * The Product Detail page for a specific product SHALL contain all available Product data elements.
 * The Product Detail page for a specific product SHALL contain a list of all Orders the Product is involved in.
 * The Product Detail page for a specific product SHALL be read-only.
-
-### How to submit
-After you have finished work on the project, please email a link to your GitHub repository containing the work to:
-
-Wendy Tarkowski\
-Senior Recruiting/BD Capture\
-Avion Solutions, Inc.\
-[wendy.tarkowski@avionsolutions.com](mailto:wendy.tarkowski@avionsolutions.com)
