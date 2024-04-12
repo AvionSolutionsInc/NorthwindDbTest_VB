@@ -24,9 +24,9 @@
                     The following JavaScript libraries are employed in this application:
                 </p>
                 <ul>
-                    <li><a href="https://api.jquery.com/" target="_blank" rel="noreferrer">jQuery 3.4.1</a>&nbsp<i class="bi bi-box-arrow-up-right" style="font-size: 0.75rem;"></i></li>
-                    <li><a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank" rel="noreferrer">Bootstrap 5.2.3</a>&nbsp<i class="bi bi-box-arrow-up-right" style="font-size: 0.75rem;"></i></li>
-                    <li><a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer">Bootstrap Icons 1.10.5</a>&nbsp<i class="bi bi-box-arrow-up-right" style="font-size: 0.75rem;"></i></li>
+                    <li><a href="https://api.jquery.com/" target="_blank" rel="noreferrer">jQuery 3.7.1</a>&nbsp<i class="bi bi-box-arrow-up-right" style="font-size: 0.75rem;"></i></li>
+                    <li><a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank" rel="noreferrer">Bootstrap 5.3.3</a>&nbsp<i class="bi bi-box-arrow-up-right" style="font-size: 0.75rem;"></i></li>
+                    <li><a href="https://icons.getbootstrap.com/" target="_blank" rel="noreferrer">Bootstrap Icons 1.11.3</a>&nbsp<i class="bi bi-box-arrow-up-right" style="font-size: 0.75rem;"></i></li>
                 </ul>
             </section>
             <section class="col-12 mt-3">

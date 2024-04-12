@@ -1,6 +1,6 @@
-# NorthwindDbTest_VB
+# NorthwindDbTest_CSharp
 A very simple data-driven business web application similar in nature to what
-Avion Solutions, Inc. maintains for its US Army customers.  It is an ASP.NET web application written in Visual Basic.  Our goal is to gather information about how you interpret requirements
+Avion Solutions, Inc. maintains for its US Army customers.  It is an ASP.NET web application written in C#.  Our goal is to gather information about how you interpret requirements
 and go about implementing them.  We will look at the code you write and the end product to help drive conversation
 during a possible interview.  This test consists of implementing two requirements that are detailed below.
 
@@ -14,9 +14,9 @@ When finished, please see the [How To Submit](#how-to-submit) section for guidan
 ## About this test
 ### JavaScript Libraries
 This project includes the following JavaScript libraries:
-* jQuery 3.4.1
-* Bootstrap 5.2
-* Bootstrap Icons 1.10
+* jQuery 3.7.1
+* Bootstrap 5.3.3
+* Bootstrap Icons 1.11.3
 
 ### Requirement #1
 The Products page currently loads all products in the database.  The customer would like to expand the Products page to include a filter to sort out products that are not available for order.

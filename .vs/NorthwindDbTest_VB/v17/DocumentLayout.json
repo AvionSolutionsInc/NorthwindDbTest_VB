@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|c:\\users\\curtis\\documents\\github\\northwinddbtest_vb\\northwinddbtest_vb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|solutionrelative:northwinddbtest_vb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|c:\\users\\curtis\\documents\\github\\northwinddbtest_vb\\northwinddbtest_vb\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|solutionrelative:northwinddbtest_vb\\bundle.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\northwinddbtest_vb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|c:\\users\\curtis\\documents\\github\\northwinddbtest_vb\\northwinddbtest_vb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|solutionrelative:northwinddbtest_vb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\northwinddbtest_vb\\app_start\\bundleconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|solutionrelative:northwinddbtest_vb\\app_start\\bundleconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|c:\\users\\curtis\\documents\\github\\northwinddbtest_vb\\northwinddbtest_vb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|solutionrelative:northwinddbtest_vb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\northwinddbtest_vb\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|solutionrelative:northwinddbtest_vb\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\northwinddbtest_vb\\app_start\\routeconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|c:\\users\\curtis\\documents\\github\\northwinddbtest_vb\\northwinddbtest_vb\\app_start\\routeconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|solutionrelative:northwinddbtest_vb\\app_start\\routeconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|c:\\users\\curtis\\documents\\github\\northwinddbtest_vb\\northwinddbtest_vb\\app_start\\bundleconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|NorthwindDbTest_VB\\NorthwindDbTest_VB.vbproj|solutionrelative:northwinddbtest_vb\\app_start\\bundleconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bundle.config",
+              "DocumentMoniker": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Bundle.config",
+              "RelativeDocumentMoniker": "NorthwindDbTest_VB\\Bundle.config",
+              "ToolTip": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Bundle.config",
+              "RelativeToolTip": "NorthwindDbTest_VB\\Bundle.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-12T12:39:05.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Default.aspx",
+              "RelativeDocumentMoniker": "NorthwindDbTest_VB\\Default.aspx",
+              "ToolTip": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Default.aspx",
+              "RelativeToolTip": "NorthwindDbTest_VB\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-12T12:36:52.302Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -94,33 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Default.aspx",
-              "RelativeDocumentMoniker": "NorthwindDbTest_VB\\Default.aspx",
-              "ToolTip": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Default.aspx",
-              "RelativeToolTip": "NorthwindDbTest_VB\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-05T18:32:52.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Bundle.config",
-              "DocumentMoniker": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Bundle.config",
-              "RelativeDocumentMoniker": "NorthwindDbTest_VB\\Bundle.config",
-              "ToolTip": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Bundle.config",
-              "RelativeToolTip": "NorthwindDbTest_VB\\Bundle.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-03T20:42:07.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Site.Master",
               "RelativeDocumentMoniker": "NorthwindDbTest_VB\\Site.Master",
@@ -128,44 +124,34 @@
               "RelativeToolTip": "NorthwindDbTest_VB\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-03T20:40:00.798Z",
+              "WhenOpened": "2024-04-12T12:33:41.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Products.aspx",
-              "DocumentMoniker": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Products.aspx",
-              "RelativeDocumentMoniker": "NorthwindDbTest_VB\\Products.aspx",
-              "ToolTip": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\Products.aspx",
-              "RelativeToolTip": "NorthwindDbTest_VB\\Products.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-04-03T20:37:34.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "RouteConfig.vb",
               "DocumentMoniker": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\App_Start\\RouteConfig.vb",
               "RelativeDocumentMoniker": "NorthwindDbTest_VB\\App_Start\\RouteConfig.vb",
               "ToolTip": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\App_Start\\RouteConfig.vb",
               "RelativeToolTip": "NorthwindDbTest_VB\\App_Start\\RouteConfig.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-03T20:33:51.11Z"
+              "WhenOpened": "2024-04-12T12:28:07.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BundleConfig.vb",
               "DocumentMoniker": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\App_Start\\BundleConfig.vb",
               "RelativeDocumentMoniker": "NorthwindDbTest_VB\\App_Start\\BundleConfig.vb",
               "ToolTip": "C:\\Users\\Curtis\\Documents\\GitHub\\NorthwindDbTest_VB\\NorthwindDbTest_VB\\App_Start\\BundleConfig.vb",
               "RelativeToolTip": "NorthwindDbTest_VB\\App_Start\\BundleConfig.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-04-03T20:30:43.013Z"
+              "WhenOpened": "2024-04-11T21:25:50.24Z",
+              "EditorCaption": ""
             }
           ]
         }
