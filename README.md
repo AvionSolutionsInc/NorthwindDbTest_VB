@@ -1,6 +1,6 @@
-# NorthwindDbTest_CSharp
+# NorthwindDbTest_VB
 A very simple data-driven business web application similar in nature to what
-Avion Solutions, Inc. maintains for its US Army customers.  It is an ASP.NET web application written in C#.  Our goal is to gather information about how you interpret requirements
+Avion Solutions, Inc. maintains for its US Army customers.  It is an ASP.NET web application written in VB.NET.  Our goal is to gather information about how you interpret requirements
 and go about implementing them.  We will look at the code you write and the end product to help drive conversation
 during a possible interview.  This test consists of implementing two requirements that are detailed below.
 
